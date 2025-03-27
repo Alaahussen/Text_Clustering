@@ -22,11 +22,11 @@ This project focuses on **unsupervised text clustering** using **machine learnin
 
 ## 📂 Dataset
 The dataset used for clustering can be accessed at the following links:
-- [Dataset Link 1](#) *(Replace with actual link)*
-- [Dataset Link 2](#) *(Replace with actual link)*
+- [[Dataset Link 1](#https://www.kaggle.com/datasets/crawford/20-newsgroups/code)
+- [Dataset Link 2](#https://www.kaggle.com/datasets/sameersmahajan/people-wikipedia-data) 
 
 ## 🖼️ Application Screenshot
-![App Screenshot](app_screenshot.png) *(Replace with actual path)*
+![App Screenshot](app_screenshot.png) 
 
 ## 🔧 Installation & Usage
 1. **Clone the repository:**
