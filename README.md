@@ -26,7 +26,7 @@ The dataset used for clustering can be accessed at the following links:
 - [Dataset Link 2](#) *(Replace with actual link)*
 
 ## 🖼️ Application Screenshot
-![App Screenshot](./images/app_screenshot.png) *(Replace with actual path)*
+![App Screenshot](app_screenshot.png) *(Replace with actual path)*
 
 ## 🔧 Installation & Usage
 1. **Clone the repository:**
