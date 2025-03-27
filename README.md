@@ -22,7 +22,7 @@ This project focuses on **unsupervised text clustering** using **machine learnin
 
 ## 📂 Dataset
 The dataset used for clustering can be accessed at the following links:
-- [[Dataset Link 1](#https://www.kaggle.com/datasets/crawford/20-newsgroups/code)
+- [Dataset Link 1](#https://www.kaggle.com/datasets/crawford/20-newsgroups/code)
 - [Dataset Link 2](#https://www.kaggle.com/datasets/sameersmahajan/people-wikipedia-data) 
 
 ## 🖼️ Application Screenshot
